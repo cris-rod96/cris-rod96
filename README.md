@@ -24,22 +24,17 @@
 
 
 
-
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
   
 -------------------
+
+<p> 
+  Visitor count<br><br>
+  <img src="https://profile-counter.glitch.me/cris-rod96/count.svg" />
+</p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cris-rod96&theme=nord&margin-w=15&margin-h=15" alt="cris-rod96" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cris-rod96&show_icons=true&locale=en&layout=compact&theme=nord" alt="cris-rod96" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cris-rod96&show_icons=true&locale=en&theme=nord" alt="cris-rod96" /></p>
+
 </div>
