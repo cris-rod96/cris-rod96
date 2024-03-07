@@ -14,7 +14,7 @@
   🤓 I am currently developing my portfolio with the new tools I am learning.
   ✅ Available to collaborate on any open source project.
   📆 Dart and flutter are on my future learning list.🎯
-  🌃 Fun fact: If you see me online in the wee hours of the morning, I'm probably hobnobbing. 
+  🌃 Fun fact: If you see me online in the wee hours of the morning, I'm probably programming. 
   </pre>
 
 -------------------
