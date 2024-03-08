@@ -53,22 +53,75 @@
 
 <br>
 
-<div>
-<h3 align="left">Activity:</h3>
 
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=cris-rod96&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<div>
+  <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/cris-rod96">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=cris-rod96&count_private=true&show_icons=true&theme=nord" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/cris-rod96">
+          <img align="center" src="https://streak-stats.demolab.com?user=cris-rod96&theme=nord" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/cris-rod96/portfolio">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=cris-rod96&repo=portfolio&theme=nord&show_owner=true" alt="Portfolio Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Languages</strong></h3>
+      <p align="center">
+        <a href="https://github.com/cris-rod96">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cris-rod96&show_icons=true&locale=en&layout=compact&theme=nord" alt="Top Languages" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
+<br />
+
+
+<div align="center">
+<h2>📈 Activity Graph 📈</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cris-rod96&custom_title=Cristhian's%20GitHub%20Activity%20Graph&bg_color=2E3440&color=81A1C1&line=CDCED3&point=88C0D0&area_color=FFFFFF&title_color=FFFFFF&area=true" />
+</div>
+
 <br><br>
-  
+
+<div align="center">
+  <h2>Github Trophies</h2>
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=cris-rod96&theme=nord&margin-w=15&margin-h=15&row=2&column=5" alt="cris-rod96" />
+    </a>
+  </p>
+</div>
+
+<br><br>
+
+<div align="center"> 
+  <h2>💎 Thanks for visiting my profile. You are great. 💎</h2>
+  <img src="https://profile-counter.glitch.me/cris-rod96/count.svg" />
 </div>
 
 
-<p> 
-  Visitor count<br><br>
-  <img src="https://profile-counter.glitch.me/cris-rod96/count.svg" />
-</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cris-rod96&theme=nord&margin-w=15&margin-h=15" alt="cris-rod96" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cris-rod96&show_icons=true&locale=en&layout=compact&theme=nord" alt="cris-rod96" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cris-rod96&show_icons=true&locale=en&theme=nord" alt="cris-rod96" /></p>
 
