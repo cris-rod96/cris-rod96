@@ -53,9 +53,9 @@
 
 <br>
 
-
+  
 <div>
-  <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+  <h2 align="center"> 📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
   <tr>
@@ -114,12 +114,20 @@
     </a>
   </p>
 </div>
-
 <br><br>
 
 <div align="center"> 
   <h2>💎 Thanks for visiting my profile. You are great. 💎</h2>
   <img src="https://profile-counter.glitch.me/cris-rod96/count.svg" />
+</div>
+
+<br><br>
+
+<div align="center">
+   <h2> 🤝🏻 Connect with me </h3>
+  <a href="mailto:crisrodam1996@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/starscreamfd"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https;//linkedin.com/in/cristhian-rodriguez-659779205"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 
