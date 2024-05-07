@@ -69,8 +69,8 @@
         <td width="50%">
           <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
           <p align="center">
-            <a href="https://github.com/cris-rod96">
-              <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=cris-rod96&repo=rodris.devo&theme=nord&show_owner=true" alt="Portfolio Project" />
+            <a href="https://github.com/cris-rod96/rodris.dev">
+              <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=cris-rod96&repo=rodris.dev&theme=nord&show_owner=true" alt="Portfolio Project" />
             </a>
           </p>
         </td>
