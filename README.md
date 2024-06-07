@@ -5,15 +5,12 @@
   <h1>Hi, I'm Cristhian Rodríguez</h1>
   <h3>Full Stack Developer | Backend Lover | Frontend Explorer</h3>
   <pre align="left">
-  💻 I am a full stack web developer and self-taught mobile developer📱
+  💻 I am a full stack web developer with 5 years experience in JavaScript.
   📚 Bachelor's degree in Systems Administration.
-  📚 9 semesters of Computer Engineering at the Technical University of Cotopaxi.
-  📝 I have a strong interest in Cibersecurity and Artificial Intelligence 🧑‍💻
+  📚 Graduated of Computer Engineering at the Technical University of Cotopaxi.
   🌟 I use daily .js, .jsx, .ts, .tsx , .sql in MERN and PERN projects.
   🌱 I’m currently learning Astro and Next.js.  
-  🤓 I am currently developing my portfolio with the new tools I am learning.
-  ✅ Available to collaborate on any open source project.
-  📆 Dart and flutter are on my future learning list.🎯
+  ✅ Available to collaborate on web projects.
   🌃 Fun fact: If you see me online in the wee hours of the morning, I'm probably programming. 
   </pre>
   <br/>
