@@ -7,9 +7,7 @@
   <pre align="left">
   💻 I am a full stack web developer with 5 years experience in JavaScript.
   📚 Bachelor's degree in Systems Administration.
-  📚 Graduated of Computer Engineering at the Technical University of Cotopaxi.
-  🌟 I use daily .js, .jsx, .ts, .tsx , .sql in MERN and PERN projects.
-  🌱 I’m currently learning Astro and Next.js.  
+  📚 In the process of obtaining my degree in Computer Engineering at the Technical University of Cotopaxi.
   ✅ Available to collaborate on web projects.
   🌃 Fun fact: If you see me online in the wee hours of the morning, I'm probably programming. 
   </pre>
@@ -19,7 +17,7 @@
   
   <div>
     <h2> 🌟 My Tech Stacks 🌟 </h2>
-  
+
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?&style=for-the-badge&logo=sequelize&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000.svg?&style=for-the-badge&logo=mongoose&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0079BF.svg?&style=for-the-badge&logo=trello&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white) 
   </div>
   <br/>
@@ -57,93 +55,41 @@
           <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
           <p align="center">
             <a href="https://github.com/cris-rod96">
-              <img align="center" src="https://streak-stats.demolab.com?user=cris-rod96&theme=nord" alt="Streak Stats" />
+              <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cris-rod96&theme=nord" alt="GitHub Streak Stats" />
             </a>
           </p>
         </td>
       </tr>
       <tr>
-        <td width="50%">
-          <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-          <p align="center">
-            <a href="https://github.com/cris-rod96/rodris.dev">
-              <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=cris-rod96&repo=rodris.dev&theme=nord&show_owner=true" alt="Portfolio Project" />
-            </a>
-          </p>
-        </td>
-        <td width="50%">
-          <h3 align="center"><strong>Tᴏᴘ Languages</strong></h3>
+        <td colspan="2">
+          <h3 align="center"><strong>Most Used Languages</strong></h3>
           <p align="center">
             <a href="https://github.com/cris-rod96">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cris-rod96&show_icons=true&locale=en&layout=compact&theme=nord" alt="Top Languages" />
+              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cris-rod96&langs_count=10&layout=compact&theme=nord" alt="Top Languages" />
             </a>
           </p>
         </td>
       </tr>
     </table>
   </div>
-  <br />
-  
-  <!-- END GITHUB STATS -->
-
-  <!--  START GITHUB CONTRIBUTIONS -->
-
-  <div>
-    <h2>🐍 My Contributions 🐍</h2>
-    <br>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cris-rod96/cris-rod96/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cris-rod96/cris-rod96/output/github-contribution-grid-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/cris-rod96/cris-rod96/output/github-contribution-grid-snake-dark.svg" />
-    <br/><br/><br/>
-  </div>
-  
-  <!--  END GITHUB CONTRUBUTIONS -->
-
-  <!-- START GITHUB GRAPHS-->
-  
-  <div>
-    <h2>📈 Activity Graph 📈</h2>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cris-rod96&custom_title=Cristhian's%20GitHub%20Activity%20Graph&bg_color=2E3440&color=81A1C1&line=CDCED3&point=88C0D0&area_color=FFFFFF&title_color=FFFFFF&area=true" />
-  </div>
   <br/>
-  
-  <!-- END GITHUB GRAPHS ->
+  <!-- END GITHUB STATS -->
   
   <!-- START GITHUB TROPHIES -->
-
+  
   <div>
-    <h2>🏆 Github Trophies 🏆</h2>
+    <h2 align="center">🏆 GitHub Trophies 🏆</h2>
     <p align="center">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=cris-rod96&theme=nord&margin-w=15&margin-h=15&row=2&column=5" alt="cris-rod96" />
+      <a href="https://github.com/cris-rod96">
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=cris-rod96&theme=nord&column=7" alt="GitHub Trophies" />
       </a>
     </p>
   </div>
-  <br/>
-    
+  
   <!-- END GITHUB TROPHIES -->
-
-  <!-- START VISIT COUNTER  -->
   
-  <div> 
-    <h2>💎 Thanks for visiting my profile. You are great. 💎</h2>
-    <img src="https://profile-counter.glitch.me/cris-rod96/count.svg" />
+  <p align="center">✨Let's connect!✨</p>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/cris-rod96/](https://www.linkedin.com/in/cristhian-rodriguez-659779205/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </div>
-  <br/>
-  
-  <!-- END VISIT COUNTER -->
-
-  <!-- START CONTACT ME -->
-  
-  <div>
-    <h2> 🤝🏻 Connect with me 🤝🏻</h2>
-    <a href="mailto:crisrodam1996@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello" target="__blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-    <a href="https://instagram.com/starscreamfd" target="__blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/cristhian-rodriguez-659779205" target="__blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  </div>
-  
-  <!-- END CONTACT NET-->
-  
 </div>
-<!-- END MAIN CONTAINER-->
