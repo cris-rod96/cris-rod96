@@ -90,6 +90,6 @@
   
   <p align="center">✨Let's connect!✨</p>
   <div align="center">
-    <a href="https://www.linkedin.com/in/cris-rod96/](https://www.linkedin.com/in/cristhian-rodriguez-659779205/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/cristhian-rodriguez-659779205/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </div>
 </div>
