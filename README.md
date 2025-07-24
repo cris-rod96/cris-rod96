@@ -2,15 +2,16 @@
   <p>
     <img src="https://github.com/cris-rod96/cris-rod96/blob/43aee692e14ed0c6e22a94b4a00390be13e5d6e9/img/miniyo.png" height="200"/>
   </p>
-  <h1>Hi, I'm Cristhian Rodríguez</h1>
-  <h3>Full Stack Developer | Backend Lover | Frontend Explorer</h3>
-  <pre align="left">
-  💻 I am a full stack web developer with 5 years experience in JavaScript.
-  📚 Bachelor's degree in Systems Administration.
-  📚 In the process of obtaining my degree in Computer Engineering at the Technical University of Cotopaxi.
-  ✅ Available to collaborate on web projects.
-  🌃 Fun fact: If you see me online in the wee hours of the morning, I'm probably programming. 
-  </pre>
+<h1>Hola, soy Cristhian Rodríguez</h1>
+<h3>Desarrollador Full Stack | Apasionado por el Backend | Explorador del Frontend</h3>
+<pre align="left">
+💻 Soy desarrollador web full stack con 5 años de experiencia en JavaScript.
+📱 También tengo experiencia en desarrollo móvil con React Native.
+🎓 Ingeniero en Informática y Sistemas Computacionales por la Universidad Técnica de Cotopaxi.
+✅ Disponible para colaborar en proyectos web y móviles.
+🌃 Dato curioso: Si me ves en línea de madrugada, probablemente estoy programando.
+</pre>
+
   <br/>
   
   <!-- START TECH STACKS -->
