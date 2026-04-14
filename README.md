@@ -1,99 +1,93 @@
-# 👋 Hola, soy Cris
+<div align="center">
 
-Desarrollador FullStack enfocado en construir **sistemas empresariales**, automatizar procesos y convertir operaciones manuales en flujos digitales eficientes.
+# ⚡ Cristhian Rodríguez
+### **Ingeniero de Sistemas | Desarrollador FullStack**
+*Especializado en la construcción de sistemas críticos y automatización de procesos empresariales.*
 
-Me especializo en crear aplicaciones completas con **React**, **Node.js**, **Express** y **PostgreSQL**, manteniendo un enfoque en escalabilidad, mantenibilidad y experiencia de usuario.
-
----
-
-## 🚀 Qué tipo de problemas resuelvo
-
-Ayudo a negocios y equipos a:
-
-- **Centralizar información** que antes estaba dispersa en Excel, notas o sistemas desactualizados.
-- **Automatizar tareas manuales** para reducir errores operativos.
-- **Diseñar flujos de trabajo claros** para que diferentes áreas trabajen de forma ordenada.
-- **Construir APIs robustas** que conectan distintos módulos o servicios.
-- **Crear dashboards y reportes** que facilitan la toma de decisiones.
-
-Mi objetivo no es solo “hacer CRUDs”, sino crear **sistemas que aporten valor real**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-Abierto%20a%20Proyectos-00f2ff?style=for-the-badge&logo=rocket&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ecuador-Residente-FFD700?style=for-the-badge&logo=google-maps&logoColor=black" />
+</p>
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=220&section=header&text=Ingeniería%20de%20Sistemas&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
 
-### **Frontend**
-- React (Vite)
-- Zustand / Context API
-- Axios
-- Componentes desacoplados y patrones limpios
+</div>
 
-### **Backend**
-- Node.js + Express
-- Sequelize
-- Arquitectura por capas
-- Middlewares, validaciones, autenticación
+## 🌐 Perfil Profesional
+Soy un desarrollador orientado a resultados que combina el rigor técnico con la visión de negocio. Mi enfoque principal es la creación de **Sistemas ERP y SaaS** que eliminan cuellos de botella operativos.
 
-### **Base de Datos**
-- PostgreSQL
-- Diseño de schemas eficientes
-- Relaciones y modelos complejos
-- Migrations y seeders
-
-### **Otros**
-- Generación de PDF (jsPDF)
-- Exportación Excel (xlsx-js-style)
-- Git / GitHub
-- Docker básico
+- 💎 **Especialidad:** Desarrollo integral con **React, Node.js y PostgreSQL**.
+- 🏗️ **Arquitectura:** Implementación de patrones de diseño, SOLID y Clean Code.
+- 🐧 **Entorno:** Experto en administración de servidores **Linux** y flujos de trabajo en terminal.
+- 🎓 **Hito Reciente:** Graduado en Ingeniería de Sistemas.
 
 ---
 
-## 📂 Proyectos destacados
+## 🚀 Proyectos que Marcan la Diferencia
 
-### 🧾 **ERP Aroma de Oro** (en desarrollo)
-Sistema empresarial para la gestión de productores, clientes, inventarios y reportes.
-
-**Incluye:**
-- Búsqueda de productores por cédula
-- Formularios dinámicos
-- Módulos separados por roles
-- Generación de reportes en PDF y Excel
-- Integración con API propia (Node.js + PostgreSQL)
-
-👉 **Valor real:** Este proyecto automatiza procesos que normalmente toman horas y los reduce a segundos.
+### 🛡️ ERP Aroma de Oro (Cacao & Granos)
+> **Desarrollo Líder:** Sistema de gestión de recursos para exportadoras.
+- **Impacto:** Automatización del 100% de la trazabilidad de productos y facturación legal.
+- **Logro Técnico:** Diseño de base de datos relacional optimizada para miles de transacciones diarias.
+- [**Ver Proyecto en GitHub →**](https://github.com/cris-rod96/erp-aroma-de-oro-client)
 
 ---
 
-### 💬 **Tikkerly – Mensajería interna**
-Aplicación de mensajería con autenticación, CRUD de usuarios y manejo de conversaciones.
-
-Usa:
-- React + Vite
-- Node.js + Express
-- Estado global bien estructurado
-
----
-
-### 🌍 **PI-Countries**
-Aplicación fullstack con filtrado avanzado, creación de actividades y listados dinámicos.
-
----
-
-## 🧠 Cómo trabajo
-
-- Me enfoco en **claridad y mantenibilidad del código**.  
-- Prefiero **arquitecturas modulares** antes que crecer código desordenado.  
-- Documentación y comunicación clara como parte del proceso.  
-- Busco entender el **“problema de negocio”**, no solo la parte técnica.  
-- Entrego soluciones que sean fáciles de usar, extender y mantener.
+## 🛠️ Stack Tecnológico & Especialización
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><strong>Frontend Core</strong></td>
+    <td align="center" width="33%"><strong>Backend & Logic</strong></td>
+    <td align="center" width="33%"><strong>DevOps & Data</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,vite,ts,tailwind,redux" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,js,sequelize" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,linux,docker,git,postman" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📩 Contacto
+## 🧠 Metodología de Trabajo
+| **Análisis** | **Desarrollo** | **Despliegue** |
+| :--- | :--- | :--- |
+| Entender el problema real del cliente. | Código limpio, testeable y escalable. | Entornos Linux seguros y optimizados. |
 
-¿Quieres colaborar, contratar o revisar algún proyecto?
+---
 
-- ✉ Email: (tu correo)
-- 💼 LinkedIn: (tu perfil)
+## 📈 Estadísticas de Ingeniería
+<p align="center">
+  <img width="480" src="https://github-readme-stats.vercel.app/api?username=cris-rod96&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff" />
+  <img width="375" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cris-rod96&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=00f2ff&text_color=ffffff" />
+</p>
 
-Estoy abierto a proyectos freelance y oportunidades laborales.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cris-rod96&theme=tokyonight&hide_border=true&stroke=00f2ff&ring=00f2ff&fire=00f2ff" width="100%" />
+</p>
+
+---
+
+## 📫 Hablemos de tu próximo gran proyecto
+<p align="center">
+  <a href="mailto:crisrodam1996@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-crisrodam1996@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/cristhian-rodriguez-659779205">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar_Profesionalmente-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cris-rod96&color=00f2ff&style=flat-square&label=PERFIL+ANALIZADO+POR+VISITANTES" />
+  <br>
+  <sub>*"La mejor forma de predecir el futuro es programándolo."*</sub>
+</div>
